@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anuj Kumar</h1>
+<h1 align="center">Hy 👋, I'm Anuj Kumar</h1>
 <h3 align="center">I’m currently Study in B.Tech(CSE)with AI-ML</h3>
 
 🌱 I’m currently learning: **Data Science & Machine Learning**
